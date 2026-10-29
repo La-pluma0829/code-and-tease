@@ -1,4 +1,4 @@
-# project-flirt
+# Code & Tease · 代码与撩拨
 
 嗯，做项目就得一直这么正经啊？
 
@@ -40,10 +40,10 @@
 支持本地 skills 的 Codex 环境，可以把这个仓库放到个人 skills 目录。以默认目录为例：
 
 ```bash
-git clone https://github.com/La-pluma0829/project-flirt.git ~/.codex/skills/project-flirt
+git clone https://github.com/La-pluma0829/code-and-tease.git ~/.codex/skills/project-flirt
 ```
 
-如果配了自己的 `CODEX_HOME`，就放到它下面的 `skills/project-flirt`。已经装过的话，在原目录更新就行，别再套一层。
+如果配了自己的 `CODEX_HOME`，就放到它下面的 `skills/project-flirt`。仓库叫 `code-and-tease`，skill 的调用名仍是 `project-flirt`，照下面这样用就好。已经装过的话，在原目录更新就行，别再套一层。
 
 让 Codex 重新发现 skills 后，在聊天里点名用：
 
